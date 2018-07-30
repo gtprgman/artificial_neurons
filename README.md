@@ -1,5 +1,6 @@
 # artificial_neurons
-An Overview to the Back Propagation Computation
+An Overview to the Back Propagation Computation.
+
 This whitepaper provides a clear understanding of how the working of an artificial neurons
 mathematically. The artificial neurons with three layers (input - hidden - output) of 
 neurons series interconnected among the layers is picked to present in the material of 
